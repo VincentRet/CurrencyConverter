@@ -1,0 +1,11 @@
+# Ignore Maven target folder
+/target/
+
+# Ignore NetBeans project files
+.nb-gradle/
+.idea/
+*.iml
+
+# Ignore macOS system files
+.DS_Store
+
